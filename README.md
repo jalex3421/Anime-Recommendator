@@ -8,7 +8,7 @@ Anime recommendator using simple data analysis ideas. For its creation, the info
 # Data
 The data used were obtained from the kaggle website. They are located in the data folder in this repository.
 
-#Content 
+# Content 
 
 ## anime.csv
 
